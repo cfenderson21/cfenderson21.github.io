@@ -1,0 +1,15 @@
+body {
+  background-color: #b4b4b4;
+}
+
+h1 {
+  color: Navy;
+  text-align: center;
+}
+
+p {
+  font-family: Courier New;
+  font-size: 20px;
+  text-align: center;
+  color: Red;
+}
